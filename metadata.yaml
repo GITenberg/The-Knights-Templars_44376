@@ -1,0 +1,29 @@
+_repo: The-Knights-Templars_44376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addison, C. G. (Charles Greenstreet)
+    alias: Addison, Charles Greenstreet
+    deathdate: 1866
+    gutenberg_agent_id: '39559'
+    url: http://www.gutenberg.org/2009/agents/39559
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Greenstreet_Addison
+description: ''
+edition_note: Third Edition
+gutenberg_issued: '2013-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44376'
+  lccn: 09032604
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Templars'
+- !lcc 'CR'
+title: The Knights Templars
+url: http://www.gutenberg.org/ebooks/44376
