@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39559
     wikipedia: http://en.wikipedia.org/wiki/Charles_Greenstreet_Addison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44376#The-Knights-Templars
 edition_note: Third Edition
 gutenberg_issued: '2013-12-06'
 gutenberg_type: Text
